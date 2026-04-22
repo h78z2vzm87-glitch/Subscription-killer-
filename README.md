@@ -35,10 +35,6 @@ A simple, fast web app to track all your subscriptions and see how much you're r
 - Vanilla JavaScript
 - LocalStorage API
 
-## License
-
-MIT License - feel free to use and modify!
-
 ---
 
 Made with ❤️ to help you kill those unnecessary subscriptions! 🎯
